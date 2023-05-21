@@ -23,6 +23,6 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-The script was developed by [Your Name] as part of [project/research details].
+The script was developed by Giorgio Cazzaniga, Maddalena Bolognesi and Vincenzo L'Imperio (Pathology Department, IRCCS San Gerardo dei Tintori, University of Milano-Bicocca, Monza, Italy).
 Thanks to the ImageJ community for their valuable resources and support.
 Please provide appropriate acknowledgments if you used any external resources or libraries in your script and mention any relevant information about your project or research. Additionally, consider providing information on how others can contribute to your repository or get in touch with you for questions or suggestions.
