@@ -1,4 +1,4 @@
-# *ImageJ Script for Image Processing of Congo red stained slides*
+# *ImageJ Script for Image Processing of Congo Red Stained Slides*
 
 This repository contains an ImageJ script that enables the processing of a group of images named TRITC, AF, and REF. The script is designed for the analysis of fluorescence scans and provides functionality for manipulating and enhancing these images. The TRITC image represents the fluorescence scan of congo red with a texas red filter, the AF image represents the fluorescence scan of the autofluorescence of the tissue (without the texas red filter), and the REF image is a copy of TRITC, on which additional processes will be applied.
 
