@@ -1,6 +1,6 @@
-# *ImageJ Script for Image Processing of TRITC, AF, and REF Images*
+# *ImageJ Script for Image Processing of Congo red stained slides*
 
-This repository contains an ImageJ script that enables the processing of a group of images named TRITC, AF, and REF. The script is designed for the analysis of immunofluorescence scans and provides functionality for manipulating and enhancing these images. The TRITC image represents the immunofluorescence scan of congo red with a texas red filter, the AF image represents the immunofluorescence scan of the autofluorescence of the tissue (without the texas red filter), and the REF image is a copy of TRITC, on which additional processes will be applied.
+This repository contains an ImageJ script that enables the processing of a group of images named TRITC, AF, and REF. The script is designed for the analysis of fluorescence scans and provides functionality for manipulating and enhancing these images. The TRITC image represents the fluorescence scan of congo red with a texas red filter, the AF image represents the fluorescence scan of the autofluorescence of the tissue (without the texas red filter), and the REF image is a copy of TRITC, on which additional processes will be applied.
 
 ![image](https://github.com/Gizmopath/Amyloid/assets/119873860/7e51e6e4-f28f-48e8-94cf-9e2f98563c4c)
 
