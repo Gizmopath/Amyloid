@@ -1,4 +1,7 @@
-# *ImageJ Script for Image Processing of Congo Red Stained Slides*
+# *ImageJ Script for Image Processing of Congo Red Stained Slides*    
+## *The SPADA pipeline* ![rsz_screenshot_2023-08-24_063258-transformed-fotor-bg-remover-2023082463436](https://github.com/Gizmopath/Amyloid/assets/119873860/e8c3dc80-01d3-4fd2-b53b-9f2f9787d78a)
+
+
 
 This repository contains an ImageJ script that enables the processing of a group of images named TRITC, AF, and REF. The script is designed for the analysis of fluorescence scans and provides functionality for manipulating and enhancing these images. The TRITC image represents the fluorescence scan of congo red with a texas red filter, the AF image represents the fluorescence scan of the autofluorescence of the tissue (without the texas red filter), and the REF image is a copy of TRITC, on which additional processes will be applied.
 
