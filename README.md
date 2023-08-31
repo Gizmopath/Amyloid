@@ -27,6 +27,8 @@ It is recommended to review and understand the script's logic and steps before r
 Feel free to modify and extend the script to suit your specific image processing needs.
 
 ## Acknowledgments
-The script was developed by Giorgio Cazzaniga, Maddalena Bolognesi and Vincenzo L'Imperio (Pathology Department, IRCCS San Gerardo dei Tintori, University of Milano-Bicocca, Monza, Italy).
-Please provide appropriate acknowledgments if you used any external resources or libraries in your script and mention any relevant information about your project or research. 
-Consider providing information on how others can contribute to your repository or get in touch with you for questions or suggestions.
+The "SPADA" pipeline was developed by Giorgio Cazzaniga, Maddalena Bolognesi, and Vincenzo L'Imperio from the Pathology Department, IRCCS San Gerardo dei Tintori, University of Milano-Bicocca, Monza, Italy [1].
+For contributions or inquiries about the "SPADA" pipeline, please refer to the contact details provided in the publication.
+
+Reference:
+[1] Cazzaniga G, Bolognesi MM, Stefania MD, et al. Congo red staining in digital pathology: the "SPADA" pipeline. Lab Invest. 2023 Aug 25:100243. doi: 10.1016/j.labinv.2023.100243. Epub ahead of print. PMID: 37634845.
